@@ -1,0 +1,14 @@
+body{
+    display:flex;
+    display: grid;
+    place-items: center;
+    height: 50vh;
+    
+}
+.hover{
+    border: 2px solid black;
+   
+    width: 200px;
+    text-align: center;
+
+}
